@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="diego-gaspar github stats" />
-</p>
-
 <h1 align="center">
   Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Diego</h2>
 </h1>
