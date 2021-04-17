@@ -33,7 +33,7 @@
     <img 
          align="center" 
          height="165"
-         src="https://github-readme-stats.vercel.app/api?username=diegogasparcruz&show_icons=true&include_all_commits=true" alt="marcelo-rafael github stats" />
+         src="https://github-readme-stats.vercel.app/api?username=diegogasparcruz&show_icons=true&include_all_commits=true" alt="diego-gaspar github stats" />
   </a>
   <a href="https://github.com/marcelo-rafael/github-readme-stats">
     <img 
