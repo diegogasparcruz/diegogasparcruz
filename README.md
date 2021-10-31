@@ -28,7 +28,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
 </p>
 
-## ⚡ GitHub Stats
+<!-- ## ⚡ GitHub Stats
   <a href="https://github.com/diegogasparcruz/github-readme-stats">
     <img 
          align="center" 
@@ -41,7 +41,7 @@
          height="165"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogasparcruz&layout=compact" 
      />
-  </a>
+  </a> -->
 
 
 
