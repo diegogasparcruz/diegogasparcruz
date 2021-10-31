@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<h2 align="left"> 
+
+<h3 align="center"> 
   🌎 Hi there! <img height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> I'm Diego Gaspar,
   a <strong>Front-end developer</strong>.
-</h2>
+</h3>
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ## 🚀 Skills:
 <p align="left">
