@@ -66,7 +66,7 @@
     <img 
          align="center" 
          height="165"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogasparcruz&layout=compact&theme=dracula" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogasparcruz&layout=compact&theme=dracula&langs_count=7&exclude_repo=matematica-computacional,computacao-grafica" 
      />
   </a>
 </div>
