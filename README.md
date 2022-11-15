@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/diegogasparcruz/">
     <img height="22" alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/diego_gaspar">
+  <a href="https://t.me/diegogaspar16">
     <img height="22" alt="Contact on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
