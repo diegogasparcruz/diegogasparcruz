@@ -55,13 +55,6 @@
 
 ## ⚡ Github Stats
 <div align="center">
-  <a href="https://github.com/diegogasparcruz/github-readme-stats">
-    <img 
-         align="center" 
-         height="165"
-         src="https://github-readme-stats.vercel.app/api?username=diegogasparcruz&show_icons=true&count_private=true&theme=dracula" alt="diego-gaspar github stats" />
-  </a>
-
   <a href="https://github.com/marcelo-rafael/github-readme-stats">
     <img 
          align="center" 
